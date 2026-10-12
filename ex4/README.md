@@ -88,5 +88,9 @@ jobs:
 ## 3. Sản phẩm nộp bài
 1. File workflow: [.github/workflows/ci.yml](file:///c:/Users/acer/Desktop/PTIT/rikkei/Dev-ops/btvn/ss11/ex4/.github/workflows/ci.yml)
 2. Ảnh chụp màn hình:
+   <img width="1221" height="217" alt="image" src="https://github.com/user-attachments/assets/40d79aa8-b5f3-4615-9663-1809592be866" />
+
    - Mục **Repository secrets** (Settings -> Secrets and variables -> Actions) hiển thị secret `REGISTRY_TOKEN`.
+     <img width="1917" height="922" alt="image" src="https://github.com/user-attachments/assets/7e645ace-0da5-4d6d-9d6d-4273060d4426" />
+
    - Log chi tiết bước **Đăng nhập vào GitHub Container Registry** trong tab Actions hiển thị **Login Succeeded**.
